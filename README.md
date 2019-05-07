@@ -1,3 +1,5 @@
+#COMP 2106 – Lab 1 – Rock Paper Scissors
+
 Write a JavaScript program that allows the user to play Rock Paper Scissors.
 
 The Program should ask the user if they want to choose rock, paper or scissors. A computer should be randomly assigned one of the three choices.
